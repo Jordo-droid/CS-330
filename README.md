@@ -1,6 +1,5 @@
 # CS-330
 
-
 How do I approach designing software?
 My approach always begins with breaking down what it is that I want to acoomplish. Understanding the steps that I need to take to create something that reaches that goal
 is paramount to being succesful, I feel.
@@ -37,4 +36,3 @@ The greatest thing I was able to pull from this course was a better understandin
 Reading and properly understanding the documentation alongsied actual visual representations of the code was incredibly helpful as well.
 Being able to see the physical output based on what you code is something that I believe only helps me when develping programs.
 As stated above, I'm a CS major so anything I can take away from this course will help me with all future educational/professional goals.
-
